@@ -1,0 +1,55 @@
+h1. *Totori plugin: SAP Enterprise Portal *
+
+p. This plugin is intended for working with _Totori - the User Acceptance Testing Workbench_
+
+h2. Overview
+
+h3. Status
+
+This plugin status is currently "Pre-Alpha":http://en.wikipedia.org/wiki/Software_release_life_cycle#Pre-Alpha.
+
+h3. Installation
+
+See "http://totori.org/":http://totori.org/
+
+h3. Technology coverage
+
+table{border:1px solid #ddd; width:100%}.
+|_{background:#ddd}.UI elements |_{background:#ddd}.Web DynPro  |_{background:#ddd}.BSP/HTMLb |
+|_\3{background:#eee}.Forms |
+| - Caption |{background:#fafafa}. 0% | 0% |
+| - Checkbox |{background:#fafafa}. 60% | 0% |
+| - File download |{background:#fafafa}. 0% | 0% |
+| - File upload |{background:#fafafa}. 0% | 0% |
+| - Input field |{background:#fafafa}. 70% | 0% |
+| - Label |{background:#fafafa}. 5% | 0% |
+| - Text view |{background:#fafafa}. 20% | 0% |
+|_\3{background:#eee}.Tables |
+| - Table |{background:#fafafa}. 40% | 0% |
+| - Table cell |{background:#fafafa}. 10% | 0% |
+| - Table column |{background:#fafafa}. 10% | 0% |
+| -- Column filtering |{background:#fafafa}. 0% | 0% |
+| -- Column sorting |{background:#fafafa}. 0% | 0% |
+| - Table row |{background:#fafafa}. 20% | 0% |
+|_\3{background:#eee}.Actions |
+| - Button |{background:#fafafa}. 70% | 0% |
+| - Link |{background:#fafafa}. 0% | 0% |
+|_\3{background:#eee}.Containers |
+| - Group |{background:#fafafa}. 0% | 0% |
+| - Tabstrip |{background:#fafafa}. 0% | 0% |
+| - TransparentContainer |{background:#fafafa}. 0% | 0% |
+| - Tray |{background:#fafafa}. 60% | 0% |
+|_\3{background:#eee}.Miscellaneous |
+| - BreadCrumb |{background:#fafafa}. 0% | %{color:#777}~N/A~% |
+| - Calendar |{background:#fafafa}. 0% | %{color:#777}~N/A~% |
+| - Image |{background:#fafafa}. 0% | 0% |
+| - Roadmap |{background:#fafafa}. 0% | %{color:#777}~N/A~% |
+| - Tree |{background:#fafafa}. 0% | %{color:#777}~N/A~% |
+
+h2. License
+
+Totori is licensed under the original "MIT license":http://creativecommons.org/licenses/MIT/.
+
+h2. Contributors
+
+* "arnaud":http://github.com/arnaud (author)

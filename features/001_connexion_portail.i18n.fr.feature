@@ -1,7 +1,7 @@
 # language: fr
 
 # Totori - User Acceptance Testing Workbench
-# http://github.com/totori/totori - MIT License
+# http://totori.org/ - MIT License
 
 @example @fr
 Fonctionnalité: Connexion et déconnexion du portail
